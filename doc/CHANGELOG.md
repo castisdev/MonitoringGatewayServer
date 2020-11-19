@@ -1,6 +1,7 @@
 MonitoringGatewayServer 1.0.1.QR1
 ===================
 [릴리즈] 2020-09-11 / 이영주
+
 [의존성 명세]
   * 3BB_COM_공통 E2E 연동 규격_V0.72.docx
 
@@ -16,6 +17,7 @@ MonitoringGatewayServer 1.0.1.QR1
 MonitoringGatewayServer 1.0.0.QR1
 ===================
 [릴리즈] 2020-09-11 / 이영주
+
 [의존성 명세]
   * 3BB_COM_공통 E2E 연동 규격_V0.69.docx
     
